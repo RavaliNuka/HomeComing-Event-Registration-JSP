@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 1, 2015, 11:10:46 PM
+    Author     : s522575
+*/
+/*
+ }*/
+
+
+/*#footer
+{ margin-left: auto; 
+  margin-right: auto;}*/
+
+
+.links a { text-decoration:none; text-align: right; }
+.links a:hover { text-decoration:underline;  }
+
+#loginsubmit {alignment-adjust: middle;}
+
+/*div#registerlogin a:active{
+     text-decoration: none
+}*/
+
+div#registerlogin a:hover{
+    text-decoration: underline !important; 
+}
+
+/*cornflowerblue*/
+
+#userloginpagebackground{
+    background-image: url(UserLoginFormBackground.jpg);
+    opacity: 0.91;
+}
+
+#footer
+{ width: 80%;
+  height: 4%;
+  padding-top: 0.7%;
+  
+/*  width: 960px;
+  height: 20px;
+  padding-top: 20px;*/
+  
+  background: transparent;
+  color: #1D1D1D;
+  text-shadow: 1px 1px #FFF; 
+  position: absolute; 
+  bottom: 0%; 
+  left: 36%;
+font-weight: bold;}
+
+#footer a, #footer a:hover
+{ 
+    color: #330033;
+  text-decoration: none;
+  padding-bottom: 1%;}
+
+#footer a:hover
+{ text-decoration: underline;}

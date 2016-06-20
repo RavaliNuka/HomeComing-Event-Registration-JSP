@@ -1,0 +1,82 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 2, 2015, 10:39:27 AM
+    Author     : S522575
+*/
+
+
+
+.links a { text-decoration:none; text-align: right; }
+.links a:hover { text-decoration:underline; }
+
+#loginsubmit {alignment-adjust: middle;}
+
+/*div#registerlogin a:active{
+     text-decoration: none
+}*/
+
+div#registerlogin a:hover{
+    text-decoration: underline !important; 
+}
+
+/*cornflowerblue*/
+
+#adminloginpagebackground{
+    background-image: url(AdminLoginBackground.jpg);
+    opacity: 0.93;
+}
+/*
+#footer
+{ width: 80%;
+  height: 4%;
+  padding-top: 0.7%;
+  text-align: center; 
+  background: transparent;
+  color: #1D1D1D;
+  text-shadow: 2px 2px #0f110f;
+  
+  position: absolute; 
+  bottom: 0%; 
+  left: 12%;
+font-weight: bold;}
+
+#footer a, #footer a:hover
+{ 
+  color: #330033;
+  text-decoration: none;
+  padding-bottom: 1%;}
+
+#footer a:hover
+{ text-decoration: underline;}*/
+
+
+
+#footer
+{ width: 80%;
+  height: 4%;
+  padding-top: 0.7%;
+  
+/*  width: 960px;
+  height: 20px;
+  padding-top: 20px;*/
+  
+  background: transparent;
+  color: #1D1D1D;
+  text-shadow: 1px 1px #FFF; 
+  position: absolute; 
+  bottom: 0%; 
+  left: 36%;
+font-weight: bold;}
+
+#footer a, #footer a:hover
+{ 
+    color: #330033;
+  text-decoration: none;
+  padding-bottom: 1%;}
+
+#footer a:hover
+{ text-decoration: underline;}

@@ -1,0 +1,153 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 22, 2015, 4:39:35 PM
+    Author     : S522575
+*/
+
+table#appendfield {width: inherit}
+td#resize1 {width: 60%}
+td#resize2 {width: 40%}
+
+
+.links a { text-decoration:none; text-align: right; }
+.links a:hover { text-decoration:underline; }
+
+
+textarea#desc {width: 500px; height: 200px; }
+
+fieldset{ padding: 1em; width: 500px; border: 1px solid rgb(255,232,57); margin: auto}
+
+label{ width: 25%; font-weight:bold; }
+
+legend{ font-size: xx-large; font-weight:bold; border: 10px; color: #ffff33}
+
+#addButton{    padding: 5px; margin: 10px; width: 125px; border: 1px;
+            border-top-color: #999; border-bottom-color: #999;
+            border-left-color: #999; border-right-color: #999; }
+
+ #removeButton{    padding: 5px; margin: 0px; width: 150px; border: 1px;
+            border-top-color: #999; border-bottom-color: #999;
+            border-left-color: #999; border-right-color: #999; }
+ 
+#create { 
+  background: #3498db;
+  border-radius: 25px;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+#create:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+#cancel { 
+  background: #3498db;
+  border-radius: 25px;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+#cancel:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+
+#footer a:hover{
+    text-decoration: underline;
+    /*text-shadow: 2px 2px #0f110f;*/
+    
+}
+
+
+
+
+/* 
+    Created on : Mar 22, 2015, 4:39:35 PM
+    Author     : S522575
+
+<div align="center" style="border:1px solid red">
+
+h1 {
+margin-left: 70px;
+}
+form li {
+list-style: none;
+margin-bottom: 5px;
+}
+
+background color
+background image
+
+
+form ul li label{
+float: left;
+clear: left;
+width: 100px;
+text-align: right;
+margin-right: 10px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+}
+
+form ul li input, select, span {
+float: left;
+margin-bottom: 10px;
+}
+
+form textarea {
+float: left;
+width: 350px;
+height: 150px;
+}
+
+[type="submit"] {
+clear: left;
+margin: 20px 0 0 230px;
+font-size:18px
+}
+
+p {
+margin-left: 70px;
+font-weight: bold;
+}
+
+
+.promo-box
+{
+text-align:center;
+border-radius:5px;
+padding:10px;
+margin-bottom:20px;
+min-height:240px;
+}
+h2
+{
+font-family:Lato, Arial, Helvetica, sans-serif;
+font-weight:700;
+color:#FFF;
+font-size:20px;
+text-decoration: none;
+}
+.promo-box p
+{
+font-family:'Open Sans', Arial, Helvetica, sans-serif;
+font-weight:400;
+color:#FFF;
+font-size:16px;
+line-height:16px;
+}
+.promo-1
+{
+background-color:#125595;
+}
+div.promo-1:hover;
+}
+*/

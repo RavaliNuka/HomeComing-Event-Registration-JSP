@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 30, 2015, 9:24:45 AM
+    Author     : s522575
+*/
+
+
+.wit{
+    margin: auto;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 20px;
+padding-right: 20px;
+width: 500px;
+height: 400px;
+background : #D8F1F8;
+border: 1px solid silver;
+
+position: absolute; top:0px; left: 100px; right: 100px; bottom: 150px;
+}
+
+.wit h4 {
+margin-left: 20px;
+}
+
+#continue{
+    left: 20px;
+    font-size: 20px;
+    -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  /*border-radius: 10px;*/
+  font-family: Georgia;
+  color: #fcfcfc;
+  background: #4ec736;
+  padding: 11px 17px 10px 20px;
+  text-decoration: none;
+float: right;
+
+
+}
+
+#continue:hover {
+	background: #5ed670;
+        text-decoration: none;
+}
+
+
+
+
+
+#footer
+{ width: 80%;
+  height: 4%;
+  padding-top: 0.7%;
+  
+/*  width: 960px;
+  height: 20px;
+  padding-top: 20px;*/
+  
+  background: transparent;
+  color: #1D1D1D;
+  text-shadow: 1px 1px #FFF; 
+  position: absolute; 
+  bottom: 0%; 
+  left: 36%;
+font-weight: bold;}
+
+#footer a, #footer a:hover
+{ 
+    color: #330033;
+  text-decoration: none;
+  padding-bottom: 1%;}
+
+#footer a:hover
+{ text-decoration: underline;}
